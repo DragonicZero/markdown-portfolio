@@ -1,0 +1,6 @@
+- Butter
+- Eggs
+- *Shampoo*
+- Milk
+- Deodorant
+- **Cat food**
